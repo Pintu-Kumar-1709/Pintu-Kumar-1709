@@ -8,27 +8,29 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
 
 ## 🌐 Socials:
  <a href="mailto:mrkumarrr12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://iconic-api.onrender.com/light/gmail" width="64px" />
   </a>
   <a href="https://github.com/Pintu-Kumar-1709">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://iconic-api.onrender.com/light/github" width="64px" />
 </a>
 
 <a href="https://www.linkedin.com/in/pintu-kumar-12x">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%230a66c2" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 2px; border: 1px solid #e2e8f0;" alt="LinkedIn" />
 </a>
 
 <a href="https://www.instagram.com/babu_sajan_12">
-    <img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 14px; border: 1px solid #e2e8f0;" alt="Instagram" />&nbsp;
   </a>
 
 <a href="https://twitter.com/babu_sajan_12">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://iconic-api.onrender.com/light/x" width="64px" />
 </a>
 
 <a href="https://www.facebook.com/Mrkumar.Sajan.12x">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 14px; border: 1px solid #e2e8f0;" alt="Facebook" />&nbsp;
 </a>
+
+
 
 <!-- Snake Game Repo View -->
 
@@ -37,19 +39,55 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
 </div>
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
+# Programming Languages
+<img src="https://iconic-api.onrender.com/light/c" width="64px" />  <img src="https://iconic-api.onrender.com/light/cpp" width="64px" /> <img src="https://iconic-api.onrender.com/light/js" width="64px" />  <img src="https://iconic-api.onrender.com/light/typescript" width="64px" /> <img src="https://iconic-api.onrender.com/light/java" width="64px" />
+
+
+
+
+## 🎨 Frontend Technology
+<img src="https://iconic-api.onrender.com/light/html" width="64px" /> <img src="https://iconic-api.onrender.com/light/css" width="64px" /> <img src="https://iconic-api.onrender.com/light/js" width="64px" />  <img src="https://iconic-api.onrender.com/light/tailwind" width="64px" /> <img src="https://iconic-api.onrender.com/light/vite" width="64px" /> <img src="https://iconic-api.onrender.com/light/react" width="64px" /> <img src="https://iconic-api.onrender.com/light/vite" width="64px" />
+<img src="https://iconic-api.onrender.com/light/nextjs" width="64px" />
+ <img src="https://iconic-api.onrender.com/light/redux" width="64px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="64px" style="background-color: white; border-radius: 50%; padding: 10px;" alt="Bootstrap" />
+<img src="https://iconic-api.onrender.com/light/sass" width="64px" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ejs.svg" width="64px" style="background-color: white; border-radius: 50%; padding: 15px; filter: invert(0);" alt="EJS" />
+ <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shadcnui.svg" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 12px; object-fit: contain;" alt="Shadcn UI" />&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 12px; object-fit: contain;" alt="Aceternity UI" />&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leaflet.svg" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 12px; object-fit: contain;" alt="Leaflet" />
+
+## ⚙️ Backend & Database
+
+<img src="https://iconic-api.onrender.com/light/nodejs" width="64px" /> <img src="https://iconic-api.onrender.com/light/express" width="64px" /> <img src="https://iconic-api.onrender.com/light/mongodb" width="64px" /> <img src="https://iconic-api.onrender.com/light/mysql" width="64px" /> <img src="https://cdn.simpleicons.org/socketdotio/white" width="64px" height="64px" style="background-color: #010101; border-radius: 50%; padding: 12px; border: 1px solid #333;" alt="Socket.io" />&nbsp; <img src="https://cdn.simpleicons.org/cloudinary/white" width="64px" height="64px" style="background-color: #3448C5; border-radius: 50%; padding: 12px; border: 1px solid #444;" alt="Cloudinary" />&nbsp; <img src="https://iconic-api.onrender.com/light/fastapi" width="64px" />
+<img src="https://cdn.simpleicons.org/stripe/635BFF" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 12px; border: 1px solid #e2e8f0; object-fit: contain;" alt="Stripe" />
+
+## 🚀 Tools & Deployment
+
+<img src="https://iconic-api.onrender.com/light/vercel" width="64px" /> <img src="https://iconic-api.onrender.com/light/render" width="64px" /> <img src="https://iconic-api.onrender.com/light/git" width="64px" /> <img src="https://iconic-api.onrender.com/light/github" width="64px" /> <img src="https://iconic-api.onrender.com/light/postman" width="64px" /> <img src="https://iconic-api.onrender.com/light/visual-studio" width="64px" /> <img src="https://cdn.simpleicons.org/npm/CB3837" width="64px" height="64px" style="background-color: white; border-radius: 100%; padding: 14px; border: 1px solid #e2e8f0; object-fit: contain;" alt="NPM" />
+
+## Develop and TroubleShoot on <img src="https://iconic-api.onrender.com/light/docker" width="44px"/>
+
+## 🎨 Design Tools
+
+<img src="https://iconic-api.onrender.com/light/canva" width="64px" /> <img src="https://iconic-api.onrender.com/light/figma" width="64px" />
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pintu-Kumar-1709&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pintu-Kumar-1709&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pintu-Kumar-1709&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<h3 align="center">📊 Activity & Analytics</h3>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pintu-Kumar-1709&theme=tokyonight&hide_border=false" alt="Pintu's GitHub Streak" />
+</p>
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Pintu-Kumar-1709&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="100%" alt="Pintu's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintu-Kumar-1709&layout=compact&theme=tokyonight&border_radius=10" width="100%" alt="Pintu's Top Languages" />
+    </td>
+  </tr>
+</table>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Pintu-Kumar-1709&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
