@@ -80,33 +80,43 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pintu-Kumar-1709&theme=tokyonight&hide_border=false" alt="Pintu's GitHub Streak" />
 </p>
 
-<!-- <table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Pintu-Kumar-1709&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="100%" alt="Pintu's GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintu-Kumar-1709&layout=compact&theme=tokyonight&border_radius=10" width="100%" alt="Pintu's Top Languages" />
-    </td>
-  </tr>
-</table> -->
+
+
+<!-- <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pintu-Kumar-1709&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintu-Kumar-1709&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Pintu-Kumar-1709&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pintu-Kumar-1709&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+
+</div> -->
 
 <div align="center">
-  <!-- GitHub Overall Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Pintu-Kumar-1709&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&bg_color=0D1117" 
-    alt="GitHub Stats" 
-    height="175"
-  />
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintu-Kumar-1709&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117" 
-    alt="Top Languages" 
-    height="175"
-  />
-</div>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pintu-Kumar-1709&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+## 📊 Activity & Analytics
+
+
+
+<!-- GitHub Stats + Top Languages side by side -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Pintu-Kumar-1709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=00E5FF&icon_color=A259FF&text_color=C9D1D9&border_color=1C2030" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintu-Kumar-1709&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=1C2030" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Contribution Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pintu-Kumar-1709&theme=tokyo-night&hide_border=true&area=true&area_color=00E5FF&color=A259FF&line=00E5FF&point=FF4D6D" alt="Contribution Graph" />
+
+<br/>
+
+
+</div>
