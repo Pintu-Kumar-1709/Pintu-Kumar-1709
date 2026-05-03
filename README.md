@@ -80,7 +80,7 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pintu-Kumar-1709&theme=tokyonight&hide_border=false" alt="Pintu's GitHub Streak" />
 </p>
 
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Pintu-Kumar-1709&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="100%" alt="Pintu's GitHub Stats" />
@@ -89,5 +89,24 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintu-Kumar-1709&layout=compact&theme=tokyonight&border_radius=10" width="100%" alt="Pintu's Top Languages" />
     </td>
   </tr>
-</table>
+</table> -->
 
+<div align="center">
+  <!-- GitHub Overall Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Pintu-Kumar-1709&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&bg_color=0D1117" 
+    alt="GitHub Stats" 
+    height="175"
+  />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pintu-Kumar-1709&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117" 
+    alt="Top Languages" 
+    height="175"
+  />
+</div>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pintu-Kumar-1709&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
