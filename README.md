@@ -117,3 +117,56 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
 
 <hr>
 </div>
+
+
+
+<p align="center">
+  <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="background: #0d1117; background-image: radial-gradient(#1f2937 1px, transparent 1px); background-size: 30px 30px; width: 800px; height: 400px; display: flex; align-items: center; justify-content: space-between; font-family: 'Segoe UI', system-ui, sans-serif; position: relative; overflow: hidden; border-radius: 12px;">
+        
+   <style>
+          @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-15px); }
+          }
+          .tech-badge {
+            position: absolute; width: 46px; height: 46px;
+            background: #161b22; border: 1px solid #30363d; border-radius: 12px;
+            display: flex; align-items: center; justify-content: center;
+            animation: float 4s ease-in-out infinite; z-index: 6;
+            box-shadow: 0 8px 15px rgba(0,0,0,0.4);
+          }
+        </style>
+
+  <!-- Left Side: Text -->
+   <div style="width: 45%; padding-left: 50px; z-index: 10;">
+          <div style="color: #8b949e; font-family: monospace; font-size: 14px; letter-spacing: 2px;">// HELLO WORLD</div>
+          <p style="color: #ffffff; font-size: 28px; margin: 0;">Hi! I'm</p>
+          <h1 style="color: #eab308; font-size: 68px; font-weight: 900; line-height: 0.8; margin: 10px 0;">Pintu<br/>Kumar.</h1>
+          <div style="color: #9ca3af; font-size: 18px; margin-top: 15px;">● <span style="color:#fff; font-weight:bold;">Full Stack</span> Developer</div>
+          <div style="margin-top:25px; border:1px solid #eab308; color:#eab308; display:inline-block; padding:6px 15px; border-radius:6px; font-family:monospace; font-size:13px;">⬢ /Pintu-Kumar-1709</div>
+        </div>
+
+        <!-- Right Side: Image and Floating Icons -->
+   <div style="width: 55%; height: 100%; position: relative; display: flex; align-items: center; justify-content: center;">
+          
+          <!-- Central Boy Image -->
+   <img src="https://raw.githubusercontent.com/Pintu-Kumar-1709/Pintu-Kumar-1709/main/developer-boy.png" style="width: 320px; height: auto; z-index: 5; object-fit: contain;" />
+            <!-- Tech Icons (Animated) -->
+          <div class="tech-badge" style="top: 30px; left: 40px; animation-delay: 0s;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="26"/></div>
+          <div class="tech-badge" style="top: 130px; left: 10px; animation-delay: 0.5s;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="26"/></div>
+          <div class="tech-badge" style="top: 230px; left: 20px; animation-delay: 1s;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="26"/></div>
+          <div class="tech-badge" style="top: 320px; left: 80px; animation-delay: 1.5s;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="26"/></div>
+          
+   <div class="tech-badge" style="top: 30px; right: 40px; animation-delay: 0.2s;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="26" style="filter:invert(1)"/></div>
+          <div class="tech-badge" style="top: 120px; right: 10px; animation-delay: 0.7s;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="26"/></div>
+          <div class="tech-badge" style="top: 210px; right: 30px; animation-delay: 1.2s;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="26"/></div>
+          <div class="tech-badge" style="top: 310px; right: 90px; animation-delay: 1.7s;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="26"/></div>
+        </div>
+
+   </div>
+  </foreignObject>
+ </svg>
+</p>
+
