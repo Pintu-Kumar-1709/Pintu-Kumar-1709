@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -19,9 +19,9 @@ jobs:
           USERNAME: Pintu-Kumar-1709
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: profile-3d-contrib
+          force_orphan: true
