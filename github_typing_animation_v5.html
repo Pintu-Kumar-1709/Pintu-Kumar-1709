@@ -1,0 +1,118 @@
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap');
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  .terminal {
+    background: #0d1117;
+    border-radius: 14px;
+    padding: 22px 36px 30px;
+    width: 100%;
+    border: 1px solid #F0DB4F55;
+    font-family: 'Fira Code', monospace;
+  }
+  .dots { display: flex; gap: 7px; margin-bottom: 22px; }
+  .dot { width: 13px; height: 13px; border-radius: 50%; }
+  .d-r{background:#ff5f57;} .d-y{background:#febc2e;} .d-g{background:#28c840;}
+  .divider { border:none; border-top:1px solid #21262d; margin: 20px 0; }
+  .screen { text-align:center; min-height:58px; }
+  .prompt { color:#6e7681; font-size:15px; margin-bottom:6px; }
+  .typed-text { font-size:22px; color:#F0DB4F; letter-spacing:0.02em; }
+  .cursor {
+    display:inline-block; width:2px; height:1.15em;
+    background:#F0DB4F; vertical-align:middle; margin-left:2px;
+    animation:blink 0.7s step-end infinite;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+  .section-label { color:#6e7681; font-size:13px; text-align:center; margin-bottom:14px; letter-spacing:0.08em; }
+  .badge-row { display:flex; justify-content:center; flex-wrap:wrap; gap:10px; }
+  .badge {
+    font-family:'Fira Code', monospace;
+    font-size:13px; padding:6px 16px;
+    border-radius:20px;
+    border:1px solid #F0DB4F44;
+    color:#F0DB4F;
+    background:#F0DB4F0f;
+    opacity:0; transform:translateY(8px) scale(0.95);
+    transition:opacity 0.35s ease, transform 0.35s ease;
+  }
+  .badge.show { opacity:1; transform:translateY(0) scale(1); }
+  .footer { text-align:center; color:#3d444d; font-size:12px; margin-top:20px; }
+</style>
+
+<div class="terminal">
+  <div class="dots">
+    <div class="dot d-r"></div>
+    <div class="dot d-y"></div>
+    <div class="dot d-g"></div>
+  </div>
+
+  <div class="screen">
+    <div class="prompt" id="prompt"></div>
+    <div class="typed-text"><span id="typed"></span><span class="cursor"></span></div>
+  </div>
+
+  <hr class="divider">
+
+  <div class="section-label">⚡ skills</div>
+  <div class="badge-row">
+    <span class="badge">⚛ React</span>
+    <span class="badge">▲ Next.js</span>
+    <span class="badge">⬡ Node.js</span>
+    <span class="badge">🍃 MongoDB</span>
+    <span class="badge">JS JavaScript</span>
+    <span class="badge">🔁 Redux</span>
+    <span class="badge">🐳 Docker</span>
+    <span class="badge">🎨 Tailwind CSS</span>
+    <span class="badge">🐙 Git</span>
+  </div>
+
+  <div class="footer">// pintu kumar • full stack developer</div>
+</div>
+
+<script>
+const sequence = [
+  { prompt: "➜ ~ whoami",       text: "Pintu Kumar",                    pause: 1400 },
+  { prompt: "➜ ~ cat role.txt", text: "Full Stack Developer",           pause: 1400 },
+  { prompt: "➜ ~ echo $MOTTO",  text: "Code. Build. Repeat. 🚀",        pause: 1800 },
+  { prompt: "➜ ~ git status",   text: "Always learning, never stopping.", pause: 1800 },
+];
+
+let si = 0, ci = 0, deleting = false, badgesStarted = false;
+const typedEl = document.getElementById('typed');
+const promptEl = document.getElementById('prompt');
+const badges = document.querySelectorAll('.badge');
+
+function showBadgesOneByOne() {
+  badges.forEach((b, i) => {
+    setTimeout(() => b.classList.add('show'), i * 2000);
+  });
+}
+
+function tick() {
+  const { text, pause } = sequence[si];
+  promptEl.textContent = sequence[si].prompt;
+
+  if (!deleting) {
+    ci++;
+    typedEl.textContent = text.slice(0, ci);
+    if (ci === text.length) {
+      if (!badgesStarted) { badgesStarted = true; showBadgesOneByOne(); }
+      deleting = true;
+      setTimeout(tick, pause);
+      return;
+    }
+    setTimeout(tick, 65);
+  } else {
+    ci--;
+    typedEl.textContent = text.slice(0, ci);
+    if (ci === 0) {
+      deleting = false;
+      si = (si + 1) % sequence.length;
+      setTimeout(tick, 350);
+      return;
+    }
+    setTimeout(tick, 28);
+  }
+}
+tick();
+</script>
