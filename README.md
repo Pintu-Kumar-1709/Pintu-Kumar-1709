@@ -7,33 +7,28 @@
 
 <div align="center">
 
-<table><tr><td>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1400&color=F0DB4F&background=0D111700&center=true&vCenter=true&width=650&height=60&lines=%E2%9E%9C+~+whoami;Pintu+Kumar;%E2%9E%9C+~+cat+role.txt;Full+Stack+Developer;%E2%9E%9C+~+echo+%24MOTTO;Code.+Build.+Repeat.+%F0%9F%9A%80;%E2%9E%9C+~+git+status;Always+learning%2C+never+stopping." alt="Typing SVG" />
 
----
+<br/><br/>
 
 **⚡ Skills**
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+<br/>
 
-`// pintu kumar • full stack developer`
-
-</div>
-
-</td></tr></table>
+<img src="https://skillicons.dev/icons?i=react&perline=1" />
+<img src="https://skillicons.dev/icons?i=nextjs&perline=1" />
+<img src="https://skillicons.dev/icons?i=nodejs&perline=1" />
+<img src="https://skillicons.dev/icons?i=mongodb&perline=1" />
+<img src="https://skillicons.dev/icons?i=js&perline=1" />
+<img src="https://skillicons.dev/icons?i=redux&perline=1" />
+<img src="https://skillicons.dev/icons?i=docker&perline=1" />
+<img src="https://skillicons.dev/icons?i=tailwind&perline=1" />
+<img src="https://skillicons.dev/icons?i=git&perline=1" />
 
 </div>
+
+
+
 
 Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me . 😊😊
 - 💬 **Ask me about:** Collaboration, Tech Support
