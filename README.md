@@ -4,7 +4,7 @@
 </div>
 
 
-# 💫 Hi 👋, I'm Pintu Kumar ||
+
 **A passionate full stack web developer || Software Engineer ||  from India**
 
 Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me . 😊😊
