@@ -20,10 +20,11 @@
 
 <br/><br/>
 
-Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me . 😊😊
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me . 😊😊 <br> 
+ 💬 **Ask me about:** Collaboration, Tech Support <br> 
+ 📫 **How to reach me:** Enter your email here <br> 
+ ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
  <a href="mailto:mrkumarrr12@gmail.com">
