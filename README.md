@@ -27,6 +27,12 @@
 
 <br/><br/>
 
+<div align="center">
+
+### 👉 [View My Interactive Profile](https://pintu-kumar-1709.github.io/my-profile-page/)
+
+</div>
+
 
 Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me . 😊😊
 - 💬 **Ask me about:** Collaboration, Tech Support
