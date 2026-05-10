@@ -4,9 +4,10 @@
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0d1117,100,0d1117&height=85&text=👨‍💻%20Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&fontSize=22&fontColor=f0db4f&animation=twinkling&fontAlignY=55"/>
-</div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1200&color=F0DB4F&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=➜+whoami;Pintu+Kumar+—+Full+Stack+Developer;➜+skills+--list;React+·+Next.js+·+Node.js+·+MongoDB" alt="Typing SVG"/>
+
+</div>
 
 Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me . 😊😊
 - 💬 **Ask me about:** Collaboration, Tech Support
