@@ -4,9 +4,8 @@
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&text=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&fontSize=24&fontColor=f0db4f&animation=twinkling&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0d1117,100,0d1117&height=85&text=👨‍💻%20Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB&fontSize=22&fontColor=f0db4f&animation=twinkling&fontAlignY=55"/>
 </div>
-
 
 
 Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me . 😊😊
