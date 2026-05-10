@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&text=Full%20Stack%20Developer%20%F0%9F%9A%80&fontSize=28&fontColor=f0db4f&animation=twinkling&fontAlignY=50&desc=React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20MongoDB%20%7C%20TypeScript&descSize=16&descColor=8b949e&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=90&text=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Open%20Source&fontSize=24&fontColor=f0db4f&animation=twinkling&fontAlignY=55"/>
 </div>
 
 
