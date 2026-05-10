@@ -4,9 +4,6 @@
 </div>
 
 
-
-**A passionate full stack web developer || Software Engineer ||  from India**
-
 Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me . 😊😊
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
