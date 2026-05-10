@@ -3,6 +3,15 @@
 <img src="https://raw.githubusercontent.com/Pintu-Kumar-1709/Pintu-Kumar-1709/main/boy.jpeg" width="100%" alt="Pintu Kumar Banner"/>
 </div>
 
+<!-- Trophies -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Pintu-Kumar-1709&theme=juicyfresh&no-frame=true&no-bg=true&column=6&margin-w=4"/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Pintu-Kumar-1709&color=f0db4f&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f0db4f&height=80&section=footer"/>
+
 
 Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me . 😊😊
 - 💬 **Ask me about:** Collaboration, Tech Support
