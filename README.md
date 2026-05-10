@@ -9,23 +9,8 @@
 
 <br/><br/>
 
-**⚡ Skills**
 
-<br/>
 
-<img src="https://skillicons.dev/icons?i=react&perline=1" />
-<img src="https://skillicons.dev/icons?i=nextjs&perline=1" />
-<img src="https://skillicons.dev/icons?i=nodejs&perline=1" />
-<img src="https://skillicons.dev/icons?i=mongodb&perline=1" />
-<img src="https://skillicons.dev/icons?i=js&perline=1" />
-<img src="https://skillicons.dev/icons?i=redux&perline=1" />
-<img src="https://skillicons.dev/icons?i=docker&perline=1" />
-<img src="https://skillicons.dev/icons?i=tailwind&perline=1" />
-<img src="https://skillicons.dev/icons?i=git&perline=1" />
-
-</div>
-
-<br/><br/>
 
 <div align="center">
 
