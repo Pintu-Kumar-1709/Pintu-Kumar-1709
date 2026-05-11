@@ -44,7 +44,7 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
     <img src="https://iconic-api.onrender.com/light/gmail" width="64px" />
   </a>
 
-<a href="https://github.com/Pintu-Kumar-1709" target="_blank">
+<a href="https://github.com/Pintu-Kumar-1709" target="_blank" rel="noopener noreferrer">
     <img src="https://iconic-api.onrender.com/light/github" width="64px" />
 </a>
 
