@@ -125,6 +125,6 @@
 </div> 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=125&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=140&section=footer" width="100%"/>
 
 
