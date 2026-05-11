@@ -40,10 +40,10 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
 
 
 ## 🌐 Socials:
- <a href="mailto:mrkumarrr12@gmail.com" target= "_blank">
+ <a href="mailto:mrkumarrr12@gmail.com" >
     <img src="https://iconic-api.onrender.com/light/gmail" width="64px" />
   </a>
-  <a href="https://github.com/Pintu-Kumar-1709">
+  <a href="https://github.com/Pintu-Kumar-1709" target= "_blank">
 <img src="https://iconic-api.onrender.com/light/github" width="64px" />
 </a>
 
