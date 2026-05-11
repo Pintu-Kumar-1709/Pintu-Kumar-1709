@@ -26,7 +26,17 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
  📫 **How to reach me:** Enter your email here <br> 
  ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+<div align="center">
 
+| ✉️ **Contact** | 💬 **Ask me about** |
+|:---:|:---:|
+| [mrkumarrr12@gmail.com](mailto:mrkumarrr12@gmail.com) | `Collaboration` · `Tech Support` · `Full Stack` |
+
+| 📫 **How to reach me** | ⚡ **Fun fact** |
+|:---:|:---:|
+| Drop a mail or DM on socials 👇 | I Love Tech and Tech Loves Me 🚀 |
+
+</div>
 
 
 ## 🌐 Socials:
