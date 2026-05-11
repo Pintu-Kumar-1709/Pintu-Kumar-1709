@@ -40,7 +40,7 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
 
 
 ## 🌐 Socials:
- <a href="mailto:mrkumarrr12@gmail.com" >
+ <a href="mailto:mrkumarrr12@gmail.com" target="_blank" >
     <img src="https://iconic-api.onrender.com/light/gmail" width="64px" />
   </a>
 
@@ -48,19 +48,19 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
     <img src="https://iconic-api.onrender.com/light/github" width="64px" />
 </a>
 
-<a href="https://www.linkedin.com/in/pintu-kumar-12x">
+<a href="https://www.linkedin.com/in/pintu-kumar-12x" target="_blank">
 <img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%230a66c2" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 2px; border: 1px solid #e2e8f0;" alt="LinkedIn" />
 </a>
 
-<a href="https://www.instagram.com/babu_sajan_12">
+<a href="https://www.instagram.com/babu_sajan_12" target="_blank">
      <img src="https://cdn.simpleicons.org/instagram/E4405F" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 14px; border: 1px solid #e2e8f0;" alt="Instagram" />&nbsp;
   </a>
 
-<a href="https://twitter.com/babu_sajan_12">
+<a href="https://twitter.com/babu_sajan_12" target="_blank">
 <img src="https://iconic-api.onrender.com/light/x" width="64px" />
 </a>
 
-<a href="https://www.facebook.com/Mrkumar.Sajan.12x">
+<a href="https://www.facebook.com/Mrkumar.Sajan.12x" target="_blank">
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 14px; border: 1px solid #e2e8f0;" alt="Facebook" />&nbsp;
 </a>
 
