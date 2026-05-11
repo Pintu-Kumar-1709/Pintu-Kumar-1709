@@ -40,7 +40,7 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
 
 
 ## 🌐 Socials:
- <a href="mailto:mrkumarrr12@gmail.com" target="_blank" >
+ <a href="mailto:mrkumarrr12@gmail.com" target="_blank" rel="noopener noreferrer" >
     <img src="https://iconic-api.onrender.com/light/gmail" width="64px" />
   </a>
 
