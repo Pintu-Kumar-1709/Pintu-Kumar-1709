@@ -128,6 +128,8 @@
 <hr>
 </div> 
 
+<img src="https://komarev.com/ghpvc/?username=Pintu-Kumar-1709&label=Profile+Views&color=blueviolet&style=flat" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=130&section=footer" width="100%"/>
 
