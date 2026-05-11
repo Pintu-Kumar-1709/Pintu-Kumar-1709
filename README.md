@@ -129,15 +129,6 @@
 </div> 
 
 
-
-<img src="https://komarev.com/ghpvc/?username=Pintu-Kumar-1709&label=Profile+Views&color=blueviolet&style=flat" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7DF1E&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%7C+Node.js+%7C+React.js" />
-
-
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=130&section=footer" width="100%"/>
 
 
