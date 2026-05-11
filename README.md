@@ -39,6 +39,11 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
 </div>
 
 
+<div align="center">
+  <img src="./about.svg" width="720" alt="About Me & Socials"/>
+</div>
+
+
 ## 🌐 Socials:
  <a href="mailto:mrkumarrr12@gmail.com" target="_blank" rel="noopener noreferrer" >
     <img src="https://iconic-api.onrender.com/light/gmail" width="64px" />
