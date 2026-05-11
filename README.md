@@ -56,7 +56,7 @@ Email Me 👉 ✉️ **mrkumarrr12@gmail.com** For knowing more details about me
      <img src="https://cdn.simpleicons.org/instagram/E4405F" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 14px; border: 1px solid #e2e8f0;" alt="Instagram" />&nbsp;
   </a>
 
-<a href="https://twitter.com/babu_sajan_12" target="_blank">
+<a href="https://twitter.com/babu_sajan_12" target="_blank" rel="noopener noreferrer">
 <img src="https://iconic-api.onrender.com/light/x" width="64px" />
 </a>
 
