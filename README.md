@@ -21,21 +21,6 @@
 <br/><br/>
 
 
-
-
-<div align="center">
-
-| ✉️ **Contact** | 💬 **Ask me about** |
-|:---:|:---:|
-| [mrkumarrr12@gmail.com](mailto:mrkumarrr12@gmail.com) | `Collaboration` · `Tech Support` · `Full Stack` |
-
-| 📫 **How to reach me** | ⚡ **Fun fact** |
-|:---:|:---:|
-| Drop a mail or DM on socials 👇 | I Love Tech and Tech Loves Me 🚀 |
-
-</div>
-
-
 <div align="center">
   <img src="./about.svg" width="720" alt="About Me & Socials"/>
 </div>
@@ -130,8 +115,6 @@
 
 
 
-
-
 <!-- ✅ Summary Cards (github_dark = closest dark to javascript-dark) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pintu-Kumar-1709&theme=github_dark" width="33%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pintu-Kumar-1709&theme=github_dark" width="33%">
@@ -143,7 +126,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pintu-Kumar-1709&theme=github-compact&hide_border=true&area=true&bg_color=1c1c1c&color=f0db4f&line=f0db4f&point=f0db4f&area_color=f0db4f&title_color=f0db4f">
 
 <img width="100%" src="https://raw.githubusercontent.com/Pintu-Kumar-1709/Pintu-Kumar-1709/output/profile-night-rainbow.svg" alt="3D Contributions"/>
-
 
 
 
