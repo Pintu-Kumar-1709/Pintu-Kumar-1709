@@ -24,7 +24,7 @@
     <img src="https://iconic-api.onrender.com/light/gmail" width="64px" />
   </a>
 
-<a href="https://github.com/Pintu-Kumar-1709" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/justkmr" target="_blank" rel="noopener noreferrer">
     <img src="https://iconic-api.onrender.com/light/github" width="64px" />
 </a>
 
