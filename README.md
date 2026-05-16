@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### 👉 [View My Interactive Profile](https://pintu-kumar-1709.github.io/my-profile-page/)
+### 👉 [View My Interactive Profile](https://justkmr.github.io/my-profile-page/)
 
 </div>
 
