@@ -108,7 +108,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pintu-Kumar-1709&theme=github_dark" width="33%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pintu-Kumar-1709&theme=github_dark&utcOffset=+5" width="33%"><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pintu-Kumar-1709&theme=github_dark" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justkmr&theme=github_dark" width="100%">
 
 <!-- ✅ Activity Graph - dark bg with yellow accents -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=justkmr&theme=github-compact&hide_border=true&area=true&bg_color=1c1c1c&color=f0db4f&line=f0db4f&point=f0db4f&area_color=f0db4f&title_color=f0db4f">
