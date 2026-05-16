@@ -113,7 +113,7 @@
 <!-- ✅ Activity Graph - dark bg with yellow accents -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=justkmr&theme=github-compact&hide_border=true&area=true&bg_color=1c1c1c&color=f0db4f&line=f0db4f&point=f0db4f&area_color=f0db4f&title_color=f0db4f">
 
-<img width="100%" src="https://raw.githubusercontent.com/Pintu-Kumar-1709/Pintu-Kumar-1709/output/profile-night-rainbow.svg" alt="3D Contributions"/>
+<img width="100%" src="https://raw.githubusercontent.com/justkmr/justkmr/output/profile-night-rainbow.svg" alt="3D Contributions"/>
 
 
 
